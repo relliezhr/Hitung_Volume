@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hitungan</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="length_in_meters">Enter the length in meters</string>
+    <string name="length_in_meters_2">Enter the length in meters</string>
+    <string name="length_in_meters_3">Enter the length in meters</string>
+    <string name="height_in_meters1">Enter the height in meters</string>
+    <string name="height_in_meters2">Enter the height in meters</string>
+    <string name="height_in_meters3">Enter the height in meters</string>
+    <string name="length_in_meters2">Enter the length in meters\n</string>
+    <string name="width_in_meters1">Enter the width in meters</string>
+    <string name="volume">Volume Balok</string>
+</resources>
